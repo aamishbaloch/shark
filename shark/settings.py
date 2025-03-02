@@ -143,14 +143,6 @@ REST_FRAMEWORK = {
     ],
 }
 
-# Spectacular settings
-SPECTACULAR_SETTINGS = {
-    'TITLE': 'Shark API',
-    'DESCRIPTION': 'API documentation for Shark project',
-    'VERSION': '1.0.0',
-    'SERVE_INCLUDE_SCHEMA': False,
-}
-
 # CORS settings
 CORS_ALLOW_ALL_ORIGINS = True  # Only for development, configure properly for production
 CORS_ALLOW_CREDENTIALS = True
