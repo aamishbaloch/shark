@@ -2,6 +2,10 @@
 
 A Django REST framework based project.
 
+## Repository
+
+https://github.com/aamishbaloch/shark
+
 ## Prerequisites
 
 - Python 3.8 or higher
@@ -36,7 +40,7 @@ CREATE DATABASE shark_db;
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/aamishbaloch/shark.git
 cd shark
 ```
 
